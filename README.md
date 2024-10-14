@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to the Resistor Value Calculator! This tool is designed to help you easily determine the resistance value of resistors with 4 color bands. Written in C, this program simplifies the process of reading and calculating resistor values, making it an essential tool for electronics enthusiasts and professionals alike.
 
+![resistorCalc](https://github.com/user-attachments/assets/5b622806-3368-42cc-bb1f-e22df824a037)
+
 ## Features
 - **Accurate Calculation**: Determines resistor values based on the standard 4-band color code.
 - **User-Friendly Interface**: Simple and intuitive command-line interface.
